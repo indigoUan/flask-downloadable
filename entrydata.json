@@ -1,16 +1,16 @@
 [
     {
-        "name": "Ice Laboratorium",
-        "descr": "Laboratorium number two: Ice Trials.",
-        "file_path": "ice-lab",
-        "id": 1,
+        "name": "Fire Laboratorium",
+        "descr": "Laboratorium number one: Fire Trials.",
+        "file_path": "fire-lab",
+        "id": 0,
         "lab": true
     },
     {
-        "name": "Final Ice Level",
-        "descr": "The last Ice Trial.",
-        "file_path": "ice-lev-4-maybe",
-        "id": 1,
+        "name": "Final Fire Level",
+        "descr": "The last Fire Trial.",
+        "file_path": "fire-lev-4-maybe",
+        "id": 0,
         "lab": false
     }
 ]
