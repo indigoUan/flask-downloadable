@@ -1,0 +1,16 @@
+[
+    {
+        "name": "Ice Laboratorium",
+        "descr": "Laboratorium number two: Ice Trials.",
+        "file_path": "ice-lab",
+        "id": 1,
+        "lab": true
+    },
+    {
+        "name": "Final Ice Level",
+        "descr": "The last Ice Trial.",
+        "file_path": "ice-lev-4-maybe",
+        "id": 1,
+        "lab": false
+    }
+]
